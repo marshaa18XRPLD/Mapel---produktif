@@ -1,5 +1,7 @@
 Kompetensi SDKD
 a. Komunikasi daring sinkron
+   - line
 b. Komunikasi daring asinkron
-c. GITHUB
-d. GIT
+   - email
+
+
