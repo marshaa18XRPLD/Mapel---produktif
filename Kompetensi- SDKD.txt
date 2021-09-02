@@ -4,5 +4,7 @@ a. Komunikasi daring sinkron
 b. Komunikasi daring asinkron
    - email
 c. GITHUB
+   - membuat akun
+   - Membuat repository
 d. GIT
 
